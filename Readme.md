@@ -163,3 +163,6 @@ You’ll have to make the following modifications to your `settings.py` file.
     visit `http://demo.localhost:8000/admin/ `
 
     or public admin `www.localhost:8000/admin/`
+
+    
+    NOTE: This is example project.  
