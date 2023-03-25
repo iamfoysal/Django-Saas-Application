@@ -1,4 +1,4 @@
-### Django Software-as-a-Service `SAAS` Aapplication setup
+### Django Software-as-a-Service `SAAS` Application setup
 
 <small> This application enables Django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service website.
 
