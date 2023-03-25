@@ -1,0 +1,10 @@
+asgiref==3.6.0
+autopep8==2.0.2
+Django==3.2.15
+django-tenants==3.4.8
+Pillow==9.3.0
+psycopg2-binary==2.9.5
+pycodestyle==2.10.0
+pytz==2023.2
+sqlparse==0.4.3
+tomli==2.0.1
